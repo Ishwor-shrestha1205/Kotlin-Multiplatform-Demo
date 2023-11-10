@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "xcode-app",
+            "name": "Xcode-app configuration",
+            "workingDir": "$PROJECT_DIR$",
+            "buildTarget": {
+                "project": "iosApp",
+                "target": "iosApp",
+            },
+            "configuration": "Debug",
+            "destination": "iPhone 14 Plus | iOS 16.2",
+        },
+        
+    ]
+}
